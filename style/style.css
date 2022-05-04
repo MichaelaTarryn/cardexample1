@@ -1,0 +1,8 @@
+  .card {
+    width: 18em;
+} 
+ .card img {
+    width: 20em;
+    height: 25em;
+    opacity: 0.5;
+} 
